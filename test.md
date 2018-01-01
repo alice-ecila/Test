@@ -29,18 +29,15 @@ ol
 
 ~~Reject~~
 
-Table
 |a|b|c|
 |:--|--:|:----:|
 |1|2|3|
 |4|5|6|
 
-table2
 | a | b | c |
 | --: | --: | --: |
 | 1 | 2 | 3 |
 
-table3
 | a | b | c |
 |:-:|:-:|:-:|
 | 1 | 2 | 3 |
@@ -54,7 +51,6 @@ table3
 | left       | right       | center       |
 | aligned    | aligned     | aligned      |
 
-table...
 | aaa | bbb | ccc |
 |:----|:----|:----|
 | 1   | 2   | 3   |
