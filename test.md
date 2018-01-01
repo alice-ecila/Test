@@ -27,4 +27,6 @@ ol
 
 [google](https://google.co.jp/)
 
+~~Reject~~
+
 
