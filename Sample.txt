@@ -1,2 +1,3 @@
-hogehoge
-fuga!
+a
+b
+c
