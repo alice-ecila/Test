@@ -54,4 +54,9 @@ table3
 | left       | right       | center       |
 | aligned    | aligned     | aligned      |
 
+table...
+| aaa | bbb | ccc |
+|:----|:----|:----|
+| 1   | 2   | 3   |
+
 
