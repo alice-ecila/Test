@@ -1,28 +1,5 @@
-# test
-## test
+*em*
 
-**強調？**
-
----
-
-+ a
-    - aaa
-    - aa
-+ b
-    - b
-+ c
-
-段落分け
-なし
-
-段落分け 
-
-あり
-
-NewLine  
-NewLine2
-
-NewLine
-NewLine2
+__strong__
 
 
